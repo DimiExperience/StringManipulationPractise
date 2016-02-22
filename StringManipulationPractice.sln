@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulationPractice"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrUtilities", "StrUtilities\StrUtilities.csproj", "{607524D0-2B1A-4C42-A6C4-CDE0D15E1257}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilTest", "UtilTest\UtilTest.csproj", "{01C601B7-0C12-4C05-9783-F2D36602A666}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{607524D0-2B1A-4C42-A6C4-CDE0D15E1257}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{607524D0-2B1A-4C42-A6C4-CDE0D15E1257}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{607524D0-2B1A-4C42-A6C4-CDE0D15E1257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C601B7-0C12-4C05-9783-F2D36602A666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C601B7-0C12-4C05-9783-F2D36602A666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C601B7-0C12-4C05-9783-F2D36602A666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C601B7-0C12-4C05-9783-F2D36602A666}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

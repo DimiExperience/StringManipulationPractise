@@ -76,21 +76,30 @@ namespace StrUtilities
             var sentanceEnding = new List<string> {".", "!", "?"};
             var exceptionEnding = new List<string> {"dr.", "mr.", "mrs.", "ms."};
 
-            foreach (string word in wordsInString)
+            //foreach (string word in wordsInString) prebaceno u LINQ!
+            //{
+            //    foreach (string end in sentanceEnding)
+            //    {
+            //        if (word.EndsWith(end))
+            //        {
+            //            retVal++;
+            //        }
+            //    }
+            //    foreach (string falseEnd in sentanceEnding)
+            //    {
+            //        if (word.EndsWith(falseEnd))
+            //        {
+            //            retVal--;
+            //        }
+            //    }
+            //}
+            
+            foreach (var word in wordsInString)
             {
-                foreach (string end in sentanceEnding)
+                retVal += sentanceEnding.Count(end => word.EndsWith(end));
+                foreach (var falseEnd in exceptionEnding.Where(falseEnd => word.EndsWith(falseEnd)))
                 {
-                    if (word.EndsWith(end))
-                    {
-                        retVal++;
-                    }
-                }
-                foreach (string falseEnd in sentanceEnding)
-                {
-                    if (word.EndsWith(falseEnd))
-                    {
-                        retVal--;
-                    }
+                    retVal --;
                 }
             }
             return retVal;
