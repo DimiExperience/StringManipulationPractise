@@ -13,7 +13,7 @@ namespace StrUtilities
 
         string GetReverseWords(); //Obrni po recima
 
-        List<char> GetDiscreteChars(); //Daj sve karaktere koji se koriste u stringu
+        string GetDiscreteChars(); //Daj sve karaktere koji se koriste u stringu
 
         int GetSentenceCount(); //Broj recenica u stringu
 

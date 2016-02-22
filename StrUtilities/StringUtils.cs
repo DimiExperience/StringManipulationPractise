@@ -54,14 +54,18 @@ namespace StrUtilities
 
         }
 
-        public List<char> GetDiscreteChars()
+        public string GetDiscreteChars()
         {
-            var listOfChars = new List<char>();
-
-
-
-
-            return listOfChars;
+            var listOfChars = new SortedSet<char>();
+            foreach (char c in _mStr)
+            {
+                if (char.IsLetterOrDigit(c))
+                {
+                    listOfChars.Add(c);
+                }
+            }
+            
+            return string.Join(",", listOfChars);
         }
 
         public int GetSentenceCount() // DOMACI!

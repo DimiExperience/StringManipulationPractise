@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using StrUtilities;
 
@@ -36,13 +37,22 @@ namespace UtilTest
             var input = new StringUtils(inputString);
             var expected = "car! je bio petrovic. petar dr. petrovic. Petar";
             var actual = input.GetReverseWords();
+            
 
             Assert.AreEqual(expected, actual, "Failed reversing words!");
         }
 
         [TestMethod]
-        public void GetDiscreetChar()
+        public void GetDiscreteChars()
         {
+            var inputString = "asdfghgfdsa123321";
+            var input = new StringUtils(inputString);
+            var expected = "1,2,3,a,d,f,g,h,s";
+            var actual = input.GetDiscreteChars();
+
+
+            Assert.AreEqual(expected, actual, "Wrong list of chars!");
+
         }
 
         [TestMethod]
