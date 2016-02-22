@@ -1,0 +1,16 @@
+c:\users\slavko\documents\visual studio 2015\Projects\StringManipulationPractice\StringManipulationPractice\bin\Debug\StringManipulationPractice.exe.config
+c:\users\slavko\documents\visual studio 2015\Projects\StringManipulationPractice\StringManipulationPractice\bin\Debug\StringManipulationPractice.exe
+c:\users\slavko\documents\visual studio 2015\Projects\StringManipulationPractice\StringManipulationPractice\bin\Debug\StringManipulationPractice.pdb
+c:\users\slavko\documents\visual studio 2015\Projects\StringManipulationPractice\StringManipulationPractice\obj\Debug\StringManipulationPractice.csprojResolveAssemblyReference.cache
+c:\users\slavko\documents\visual studio 2015\Projects\StringManipulationPractice\StringManipulationPractice\obj\Debug\StringManipulationPractice.exe
+c:\users\slavko\documents\visual studio 2015\Projects\StringManipulationPractice\StringManipulationPractice\obj\Debug\StringManipulationPractice.pdb
+c:\users\slavko\documents\visual studio 2015\Projects\StringManipulationPractice\StringManipulationPractice\bin\Debug\StrUtilities.dll
+c:\users\slavko\documents\visual studio 2015\Projects\StringManipulationPractice\StringManipulationPractice\bin\Debug\StrUtilities.pdb
+C:\Users\Dimi\Documents\Visual Studio 2015\Projects\StringManipulationPractise\StringManipulationPractice\bin\Debug\StringManipulationPractice.exe.config
+C:\Users\Dimi\Documents\Visual Studio 2015\Projects\StringManipulationPractise\StringManipulationPractice\obj\Debug\StringManipulationPractice.exe
+C:\Users\Dimi\Documents\Visual Studio 2015\Projects\StringManipulationPractise\StringManipulationPractice\obj\Debug\StringManipulationPractice.pdb
+C:\Users\Dimi\Documents\Visual Studio 2015\Projects\StringManipulationPractise\StringManipulationPractice\bin\Debug\StringManipulationPractice.exe
+C:\Users\Dimi\Documents\Visual Studio 2015\Projects\StringManipulationPractise\StringManipulationPractice\bin\Debug\StringManipulationPractice.pdb
+C:\Users\Dimi\Documents\Visual Studio 2015\Projects\StringManipulationPractise\StringManipulationPractice\bin\Debug\StrUtilities.dll
+C:\Users\Dimi\Documents\Visual Studio 2015\Projects\StringManipulationPractise\StringManipulationPractice\bin\Debug\StrUtilities.pdb
+C:\Users\Dimi\Documents\Visual Studio 2015\Projects\StringManipulationPractise\StringManipulationPractice\obj\Debug\StringManipulationPractice.csprojResolveAssemblyReference.cache

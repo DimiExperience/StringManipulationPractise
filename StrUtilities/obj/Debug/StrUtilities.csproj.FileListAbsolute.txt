@@ -1,0 +1,10 @@
+c:\users\slavko\documents\visual studio 2015\Projects\StringManipulationPractice\StrUtilities\bin\Debug\StrUtilities.dll
+c:\users\slavko\documents\visual studio 2015\Projects\StringManipulationPractice\StrUtilities\bin\Debug\StrUtilities.pdb
+c:\users\slavko\documents\visual studio 2015\Projects\StringManipulationPractice\StrUtilities\obj\Debug\StrUtilities.csprojResolveAssemblyReference.cache
+c:\users\slavko\documents\visual studio 2015\Projects\StringManipulationPractice\StrUtilities\obj\Debug\StrUtilities.dll
+c:\users\slavko\documents\visual studio 2015\Projects\StringManipulationPractice\StrUtilities\obj\Debug\StrUtilities.pdb
+C:\Users\Dimi\Documents\Visual Studio 2015\Projects\StringManipulationPractise\StrUtilities\bin\Debug\StrUtilities.dll
+C:\Users\Dimi\Documents\Visual Studio 2015\Projects\StringManipulationPractise\StrUtilities\bin\Debug\StrUtilities.pdb
+C:\Users\Dimi\Documents\Visual Studio 2015\Projects\StringManipulationPractise\StrUtilities\obj\Debug\StrUtilities.csprojResolveAssemblyReference.cache
+C:\Users\Dimi\Documents\Visual Studio 2015\Projects\StringManipulationPractise\StrUtilities\obj\Debug\StrUtilities.dll
+C:\Users\Dimi\Documents\Visual Studio 2015\Projects\StringManipulationPractise\StrUtilities\obj\Debug\StrUtilities.pdb
